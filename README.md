@@ -1,5 +1,6 @@
+![Banner image for Robotic Programming at Staffordshire University](/BB_Banner_RP_ULTRA@4x.png)
 # RP-Blinky-Test
-Very basic blinky test for STM32
+## Very basic blinky test for STM32
 
 This example:
 - Enables the clock associated with PORT D, using the Hardware Abstraction Layer (HAL)
